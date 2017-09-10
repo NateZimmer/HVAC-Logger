@@ -1,8 +1,8 @@
 # How 2 Read HVAC Signal Thingeys
 
-**Disclaimer**: Don't try any of this anywhere. You may accidentally kill yourself and or probably destroy your HVAC system costing you 1000s of dollars. 
+**Disclaimer**: Don't try any of this anywhere anytime. You may accidentally kill yourself and or probably destroy your HVAC system costing you 1000s of dollars. 
 
-Exciting Premise: That which has plagued you your whole life now can be alleviated with this one simple trick. Complete knowledge of your HVAC system which, undoubtly has been childhood dream, can now be obtained. In addition to fulfilling this hole in my own personal humanity, it provides useful data for work. The annoying part is it requires some tribal knowledge which is not very common on the internets because most people/nerds don't care about their thermostat. Consequently this guide will provide some information with the end goal of logging/viewing data from ones thermostat.  The end goal is to produce something similar to the following: 
+**Exciting Premise:** That which has plagued you your whole life now can be alleviated with this one simple trick. Complete knowledge of your HVAC system which, undoubtly has been childhood dream, can now be obtained. In addition to fulfilling this hole in my own personal humanity, it provides useful data for work. The annoying part is it requires some tribal knowledge which is not very common on the internets because most people/nerds don't care about their thermostat. Consequently this guide will provide some information with the end goal of logging/viewing data from ones thermostat.  The end goal is to produce something similar to the following: 
 
 <p align="center">
     <img src ="Images/EndSystem.PNG">
@@ -47,7 +47,13 @@ and with this software magic one can get the following result:
     <img src ="Images/EndSystem.PNG">
 </p>
 
+## Lovely Hardware:
+
+<p align="center">
+    <img src ="Images/HVAC_Mod.jpg">
+</p>
+
 
 ## Conclusion:
 
-and now you are a master 
+Now you are a master of the HVACs. Good job!
