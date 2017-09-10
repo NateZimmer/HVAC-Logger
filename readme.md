@@ -12,7 +12,7 @@
 Commonly, atleast in the USA, HVAC (Heating,Ventalation,Air Conditioning) systems are 24 VAC systems. They often exist as 4 wire, 5 wire, and 7+ wire thermostats as shown below:
 
 <p align="center">
-    <img src ="Images/HVAC.png">
+    <img src ="Images/HVAC.PNG">
 </p>
 
 Most commonly is the older thermostat which is a 4-wire thermostat. These thermostats by majority require a battery for power if they are electric in nature. Next most common is a 5-wire that contains both power wires as well as wires for heating,cooling and fan control. Finally, more elaborate Thermostats may have multiple stages of heating/cooling, may have auxillary devices...ect. Keep in mind that each of these is a 24 VAC signals. Often externally **W1,Y1,G** will be connected to power externally such as **RH**. The Thermostat completes the circuit to turn on an output, such as heating, by connecting **W1** to **C**. This completed circuit resultes in current flowing through **W1** which the heating system will detect and subsequently enable the heating system. Often, these wires are not high wattage so these are merely signal wires and not powering wires. 
